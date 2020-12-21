@@ -1,0 +1,31 @@
+.header{
+    border: 2px solid #000000;
+    border-radius: 50px;
+    background-color: gold;
+}
+
+.grid{ 
+    background-color: whitesmoke;
+    display : flex;
+    justify-content: space-between;
+}
+
+.menu{
+    display : flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: white;
+}
+
+.origami{
+  border-radius: 20px;
+  background-color: #ffffff;
+  padding: 30px;
+  margin: 25px;
+  width: 310px;
+  font-family: fantasy;
+}
